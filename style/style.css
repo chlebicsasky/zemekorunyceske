@@ -1,0 +1,226 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: rgb(136, 102, 0);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#oprasek{
+    height: 60px;
+    line-height: 60px;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    text-align: end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 5px;
+    border: 2px solid white;
+}
+
+.vec1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+header img{
+    margin: 0;
+}
+
+body{
+    background-image: url(/opraski/backgroundy/background_preklady.png);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+main{
+    background-color: #e9e9e9;
+    padding: 16px;
+    height: auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+.tabulka_1{
+    height: 792px;
+    width: 1083px;
+}
+
+main a{
+    text-decoration: none;
+    color: rgb(0, 4, 255);
+}
+
+.síkryt{
+    color: rgb(230, 230, 230);
+    text-align: end;
+}
+
+footer{
+    padding: 16px;
+    background-color: rgb(41, 41, 41);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.odkazy{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.dalsi-odkazy a{
+    text-decoration: none;
+    color: white;
+}
+
+.dalsi-odkazy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+
+.texticek{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.carecka{
+    color: white;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid white;
+    width: auto;
+    margin: auto;
+}
+
+.catfayette{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.chlebnik{
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.tirmisak{
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+.Ay{
+    color: white;
+    text-align: center;
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer h2{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+footer h3{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.kontakty-text{
+    color: white;
+    
+    text-align: center;
+}
+
+/*##################################################*/
+
+.cudlici{
+    padding: 16px;
+    gap: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/**/
+
+/**/
+
+#ck3 {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(42, 95, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#ck3 img{
+    border-bottom: 10px solid black;
+}
+
+#v3 {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(197, 36, 36);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#v3 img{
+    border-bottom: 10px solid black;
+}
+
+#hoi4 {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(124, 50, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#hoi4 img{
+    border-bottom: 10px solid black;
+}
+
+#eu4 {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(99, 42, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#eu4 img{
+    border-bottom: 10px solid black;
+}
