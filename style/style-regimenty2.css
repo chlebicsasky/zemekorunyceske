@@ -62,7 +62,7 @@ main a{
 }
 
 main p{
-    color: white;
+    color: rgb(0, 0, 0);
     
 }
 
@@ -183,7 +183,7 @@ footer h3{
 
 /**/
 
-#ck3 {
+#pechota{
     padding: 0px;
     border: 10px solid black;
     background-color: rgb(42, 95, 165);
@@ -192,11 +192,11 @@ footer h3{
     font-weight: bolder;
 }
 
-#ck3 img{
+#pechota img{
     border-bottom: 10px solid black;
 }
 
-#v3 {
+#artina {
     padding: 0px;
     border: 10px solid black;
     background-color: rgb(197, 36, 36);
@@ -205,32 +205,58 @@ footer h3{
     font-weight: bolder;
 }
 
-#v3 img{
+#artina img{
     border-bottom: 10px solid black;
 }
 
-#hoi4 {
+#garda {
     padding: 0px;
     border: 10px solid black;
-    background-color: rgb(124, 50, 0);
+    background-color: rgb(61, 0, 102);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     font-weight: bolder;
 }
 
-#hoi4 img{
+#garda img{
     border-bottom: 10px solid black;
 }
 
-#eu4 {
+#dragoun {
     padding: 0px;
     border: 10px solid black;
-    background-color: rgb(99, 42, 165);
+    background-color: rgb(116, 14, 14);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     font-weight: bolder;
 }
 
-#eu4 img{
+#dragoun img{
+    border-bottom: 10px solid black;
+}
+
+#granat {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(17, 26, 77);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#granat img{
+    border-bottom: 10px solid black;
+}
+
+#myslivec {
+    padding: 0px;
+    border: 10px solid black;
+    background-color: rgb(18, 78, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#myslivec img{
     border-bottom: 10px solid black;
 }
